@@ -1,0 +1,4 @@
+#Wed Jul 31 19:59:57 IST 2019
+base.0=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\46
+path.0=classes.dex
+renamed.0=classes.dex
