@@ -1,4 +1,4 @@
-#Thu Aug 01 15:09:54 IST 2019
-base.0=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\88
+#Thu Aug 01 15:28:13 IST 2019
+base.0=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

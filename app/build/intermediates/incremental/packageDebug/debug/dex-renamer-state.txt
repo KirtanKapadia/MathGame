@@ -1,4 +1,4 @@
-#Thu Aug 01 15:09:58 IST 2019
+#Thu Aug 01 15:35:01 IST 2019
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\103
-base.4=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\101
-base.3=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\106
-base.2=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\104
-base.1=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\105
-base.0=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\102
+base.5=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.4=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.3=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.2=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.1=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.0=D\:\\Android\\MathGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
